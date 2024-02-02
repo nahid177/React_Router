@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "product_name": "DANI ALL-NATURAL GRAPEFRUIT GINGER LIP BALM, 0.15-OUNCE",
+        "product_price": "$6.99",
+        "image_url": "https://thehawaiistore.com/cdn/shop/files/GrapefruitGingerLipBalm.15oz_400x400.jpg?v=1684262212"
+    },
+    {
+        "id": 2,
+        "product_name": "DANI NATURALS \"GRAPEFRUIT GINGER LOTION AND LIP BALM DUO\"",
+        "product_price": "$12.99",
+        "image_url": "https://thehawaiistore.com/cdn/shop/files/GRAPEFRUIT-GINGER-LOTION-AND-LIP-BALM-GIFT-SET-1_0f98a885-8640-4b3d-81af-eb17990ee9e7_400x400.jpg?v=1700011007"
+    },
+    {
+        "id": 3,
+        "product_name": "DANI NATURALS \"GRAPEFRUIT GINGER\" BAR SOAP, 4-OUNCE",
+        "product_price": "$9.99",
+        "image_url": "https://thehawaiistore.com/cdn/shop/files/Grapefruit-Ginger-Soap-Bar-4oz-1_400x400.jpg?v=1704152971"
+    },
+    {
+        "id": 4,
+        "product_name": "GRAPEFRUIT GINGER SCENTED SOY CANDLE TIN - 6OZ",
+        "product_price": "$15.99",
+        "image_url": "https://thehawaiistore.com/cdn/shop/products/CAGGT_1052x_400x400_1f7e7e4f-08eb-473a-b44f-e3c5bf3ab869_400x400.webp?v=1681254544"
+    },
+    {
+        "id": 5,
+        "product_name": "DANI NATURALS \"LEMONGRASS LAVENDER\" LIP BALM, 0.15-OUNCE",
+        "product_price": "$6.99",
+        "image_url": "https://thehawaiistore.com/cdn/shop/files/LemongrassLavenderLipBalm.15oz_400x400.jpg?v=1684261975"
+    },
+    {
+        "id": 6,
+        "product_name": "DANI NATURALS \"LEMONGRASS LAVENDER\" LOTION AND LIP BALM DUO",
+        "product_price": "$12.99",
+        "image_url": "https://thehawaiistore.com/cdn/shop/files/Lemongrass-Lavender-Lotion-and-Lip-Balm-Gift-Set_400x400.jpg?v=1701212557"
+    },
+    {
+        "id": 7,
+        "product_name": "DANI \"LEMONGRASS LAVENDER\" SOY CANDLE TRAVEL TIN, 2-OUNCE",
+        "product_price": "$6.99",
+        "image_url": "https://thehawaiistore.com/cdn/shop/files/Lemongrass-Lavender-Soy-Travel-Tin-Candle---2oz_c750f02c-fd8e-4b6a-9812-a7b4f6f7557c_400x400.jpg?v=1704153513"
+    },
+    {
+        "id": 8,
+        "product_name": "DANI NATURALS \"COCONUT VANILLA\" BODY BUTTER, 8-OZ",
+        "product_price": "$19.99",
+        "image_url": "https://thehawaiistore.com/cdn/shop/files/LemongrassLavenderLipBalm.15oz_400x400.jpg?v=1684261975"
+    },
+    {
+        "id": 9,
+        "product_name": "DANI \"TROPICAL PASSIONFRUIT\" ROOM FRAGRANCE SPRAY, 4-OZ",
+        "product_price": "$8.99",
+        "image_url": "https://thehawaiistore.com/cdn/shop/files/Grapefruit-Ginger-Soap-Bar-4oz-1_400x400.jpg?v=1704152971"
+    },
+    {
+        "id": 10,
+        "product_name": "DANI NATURALS \"ALOE VERA\" SHAMPOO, 12-OZ",
+        "product_price": "$14.99",
+        "image_url": "https://thehawaiistore.com/cdn/shop/files/CITRUS-ROSE-LOTION-AND-LIP-BALM-GIFT-SET-1_400x400.jpg?v=1700010302"
+    },
+    {
+        "id": 11,
+        "product_name": "DANI \"COCONUT HIBISCUS\" SOY CANDLE TIN, 6-OZ",
+        "product_price": "$13.99",
+        "image_url": "https://thehawaiistore.com/cdn/shop/files/Lemongrass-Lavender-Lotion-and-Lip-Balm-Gift-Set_400x400.jpg?v=1701212557"
+    },
+    {
+        "id": 12,
+        "product_name": "DANI NATURALS \"VANILLA COCONUT\" BATH BOMB",
+        "product_price": "$7.99",
+        "image_url": "https://thehawaiistore.com/cdn/shop/files/Lemongrass-Lavender-Lotion-and-Lip-Balm-Gift-Set_400x400.jpg?v=1701212557"
+    }
+]
