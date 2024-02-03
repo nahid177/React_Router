@@ -1,7 +1,9 @@
 
 const Sing_in = () => {
     return (
-        <div className="px-[270px] py-[20px]">
+        
+        <div className="px-[390px] py-[200px]">
+             <h1 className=" text-4xl font-bold ">WElCOME OUR REACT ROUTER SYSTEM</h1>
             <label htmlFor="input-group-1" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Your Email</label>
             <div className="relative mb-6">
                 <div className="absolute inset-y-0 start-0 flex items-center ps-3.5 pointer-events-none">

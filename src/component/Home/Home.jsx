@@ -15,6 +15,8 @@ const Home = () => {
             <Right_nav></Right_nav>
 
             <Outlet></Outlet>
+            
+
         </div>
     );
 };
